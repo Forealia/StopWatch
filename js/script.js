@@ -21,8 +21,8 @@ $(function () {
             'width' : '300px',
             'height' : '300px',
             'margin' : 'auto',
-            'border' : '10px solid black',
-            'border-radius' : '100%'
+            'border-radius' : '100%',
+            'border' : '10px solid black'
         });
         this.startButton = $('<button>').html('Старт');
         this.pauseButton = $('<button>').html('Пауза');
