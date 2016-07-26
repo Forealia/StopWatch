@@ -6,7 +6,6 @@ $(function () {
 
         this.container = $('<div>').css({
             'width' : '400px',
-            'height' : '600px',
             'margin' : 'auto'
         });
         this.watchArrow = $('<div>').css({
